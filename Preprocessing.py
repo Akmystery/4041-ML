@@ -3,7 +3,7 @@ import csv
 import pandas as pd
 
 
-original_train_data = pd.read_csv('train.csv')
+original_train_data = pd.read_csv('Data/train.csv')
 
 short_period_set = original_train_data.loc[(original_train_data['date'] >= '2017-06-01') & (original_train_data['date'] <= '2017-06-28')]
 
