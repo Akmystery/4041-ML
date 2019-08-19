@@ -1,4 +1,4 @@
-#Time-series Forecasting for Corporación Favorita Grocery Sales Forecasting
+# Time-series Forecasting for Corporación Favorita Grocery Sales Forecasting
 
 This is the Kaggle Competition project, which is to predict the sales of items in every shop of Corporación Favorita Grocery.
 We used the ensemble of LightGBM and NN models to make predictions.
